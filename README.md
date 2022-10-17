@@ -1,2 +1,3 @@
 # plusplus
-1.19 utility mod
+Fabric 1.19 utility mod
+Used to private but now public
